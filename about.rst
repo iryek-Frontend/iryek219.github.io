@@ -1,7 +1,6 @@
 ---
 title: About
 ---
-habitasse platea dictumst. Morbi fringilla mattis odio, et mattis tellus
 accumsan vitae.
 
 1. Amamus Unicode 碁
